@@ -22,6 +22,6 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 [![kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira)](https://github.com/kelvinteixeira/github-readme-stats)
 
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 
 ### Thanks for visiting, happy hacking!
