@@ -1,7 +1,7 @@
 # Hello there 👋
 
 My name is Kelvin, i'm from Brazili'
-I'm a Front-end developer jr and full stack developer student, that has been working as Front-end developer since november 2020.
+Front-end developer junior and full stack developer student, that has been working as Front-end developer since november 2020.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
@@ -17,7 +17,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### Languages and tools 
 
-[![kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira)](https://github.com/kelvinteixeira/github-readme-stats)
+[![kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira&theme=tokyonight)](https://github.com/kelvinteixeira/github-readme-stats)
 
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="20" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
