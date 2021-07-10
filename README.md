@@ -17,7 +17,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### Languages and tools 
 
-[![kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira&theme=tokyonight)](https://github.com/kelvinteixeira/github-readme-stats)
+[![kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira&show_icons=true&theme=tokyonight)](https://github.com/kelvinteixeira/github-readme-stats)
 
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="20" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
