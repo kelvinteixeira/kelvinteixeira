@@ -1,16 +1,19 @@
 # Hello there 👋
 
-My name is Kelvin, i'm from Brazili'
+My name is Kelvin, i'm from Brazil 🇧🇷.
 Front-end developer junior and full stack developer student, that has been working as Front-end developer since november 2020.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 ### "Giving up is not an option, when persistence determines success" 👊🏻👊🏻
 
-- 🌎 From Campina Grande-Paraíba 🌎
-- 💻 Student of analysis and systems development 💻
+- 🌎 From Campina Grande-Paraíba.
+- 📚 Student of analysis and systems development.
+- 💻 Currently attending 38º XP Gama edition.
+- 💻 Currently attending Hiring Coders 2021 (Gama Academy / VTEX).
+- 💻 Currently attending Santander bootcamp DIO.
 
-### About me
+### Reach me out
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/settings/profile)](https://github.com/settings/profile)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvin-teixeira-8707b41a8/?originalSubdomain=br)]( https://www.linkedin.com/in/kelvin-teixeira-8707b41a8/?originalSubdomain=br)
@@ -30,4 +33,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
 
-### Thanks for visiting, happy hacking!
+### Thanks for visiting, happy hacking! 😁
