@@ -17,10 +17,12 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### Status 
 
-[![kelvinteixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira)](https://github.com/kelvinteixeira/github-readme-stats)
+[![kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira)](https://github.com/kelvinteixeira/github-readme-stats)
 
 
-### Languages adn tools 
+### Languages and tools 
+
+![image]({https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white})
 
 <img src="{https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 }" />
