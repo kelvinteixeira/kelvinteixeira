@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Kelvin, i'm from Brazil 🇧🇷.
+My name is Kelvin, i'm from Brazil.
 Front-end developer junior and full stack developer student, that has been working as Front-end developer since november 2020.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
@@ -18,7 +18,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/settings/profile)](https://github.com/settings/profile)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvin-teixeira-8707b41a8/?originalSubdomain=br)]( https://www.linkedin.com/in/kelvin-teixeira-8707b41a8/?originalSubdomain=br)
 
-### Languages and tools 
+### Languages and tools: 
 
 [![kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira&show_icons=true&theme=tokyonight)](https://github.com/kelvinteixeira/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinteixeira&layout=compact)](https://github.com/kelvinteixeira/github-readme-stats)
