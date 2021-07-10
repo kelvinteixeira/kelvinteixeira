@@ -5,7 +5,7 @@ I'm a Front-end developer jr and full stack developer student, that has been wor
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-###🧠 "Giving up is not an option, when persistence determines success" 👊🏻👊🏻
+### 🧠 "Giving up is not an option, when persistence determines success" 👊🏻👊🏻
 
 - 🌎 From Campina Grande-Paraíba 🌎
 - 💻 Student of analysis and systems development 💻
@@ -17,7 +17,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### Status 
 
-![kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira&show_icons=true & theme = tokyonight)
+[![kelvinteixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira)](https://github.com/kelvinteixeira/github-readme-stats)
 
 
 ### Languages adn tools 
@@ -43,4 +43,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 <img src="{https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 }" />
 
-##Thanks for visiting, happy hacking!
+### Thanks for visiting, happy hacking!
