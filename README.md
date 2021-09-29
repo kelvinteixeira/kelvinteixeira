@@ -10,8 +10,6 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 🌎 From Campina Grande-Paraíba.
 - 📚 Student of analysis and systems development.
 - 💻 Currently attending 38º XP Gama edition.
-- 💻 Currently attending Hiring Coders 2021 (Gama Academy / VTEX).
-- 💻 Currently attending Santander bootcamp DIO.
 
 ### Reach me out
 
