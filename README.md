@@ -9,7 +9,6 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 - 🌎 From Campina Grande-Paraíba.
 - 📚 Student of analysis and systems development.
-- 💻 Currently attending 38º XP Gama edition.
 
 ### Reach me out
 
