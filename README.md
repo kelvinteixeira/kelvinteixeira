@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Kelvin, i'm from Brazil.
+My name is Kelvin, 28 years old and i'm from Brazil.
 Front-end developer junior and full stack developer student, that has been working as Front-end developer since november 2020.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
@@ -15,19 +15,23 @@ I'm passionate about solving problems and learning. Always open to new challenge
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/settings/profile)](https://github.com/settings/profile)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvin-teixeira-8707b41a8/?originalSubdomain=br)]( https://www.linkedin.com/in/kelvin-teixeira-8707b41a8/?originalSubdomain=br)
 
-### Languages and tools: 
+<div align="center">
+  <a href="https://github.com/kelvinteixeira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinteixeira&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinteixeira&layout=compact&langs_count=7&theme=omni"/>
+</div>
 
-[![kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinteixeira&show_icons=true&theme=tokyonight)](https://github.com/kelvinteixeira/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinteixeira&layout=compact)](https://github.com/kelvinteixeira/github-readme-stats)
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ### Thanks for visiting, happy hacking! 😁
