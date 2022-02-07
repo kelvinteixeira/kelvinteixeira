@@ -30,7 +30,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 </div>
 
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/kelvinteixeira/kelvinteixeira/blob/output/github-contribution-grid-snake.svg)
 
 
 
