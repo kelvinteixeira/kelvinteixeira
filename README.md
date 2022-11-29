@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Kelvin, 28 years old and i'm from Brazil.
+My name is Kelvin, 29 years old and i'm from Brazil.
 Front-end developer junior and full stack developer student, working as Front-end developer since november 2020.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
