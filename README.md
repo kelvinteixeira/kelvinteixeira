@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kelvin Teixeira, and I've been a Frontend developer for about 3 years. I work with React, Typescript, NextJS in monolithic projects and micro business and personal applications, in order to commit to the company to develop its system, organize and help and add its business value.<br>I am from Brazil  =D</h2>
+<h2 align="left">Hi 👋! My name is Kelvin Teixeira, I'am from Brazil, and I've been a Frontend developer for about 3 years. I work with React, Typescript, NextJS in monolithic projects and micro business and personal applications, in order to commit to the company to develop its system, organize and help and add its business value.<br></h2>
 
 ###
 
